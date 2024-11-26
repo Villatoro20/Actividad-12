@@ -1,24 +1,17 @@
-# chuck-jokes-vue
+# Chuck Jokes Vue
 
-## Project setup
-```
-npm install
-```
+## Description
+A Vue.js application displaying a list of Chuck Norris jokes using the v-for directive.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features
+- Displays a list of jokes dynamically.
+- Styled with custom CSS for a simple yet appealing design.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Screenshots
+Include screenshots of the application.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Instructions to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ChuckJokesVue.git
+   cd chuck-jokes-vue
